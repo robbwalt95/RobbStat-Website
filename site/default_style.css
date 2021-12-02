@@ -65,6 +65,9 @@ td { height: 50px;   border-right: solid 1px red;
 table { color:red; width:100%;
 }
 
+.imagefit {
+}
+
 @media only screen and (max-width:800px) {
   /* For tablets: */
   .main {
@@ -74,10 +77,20 @@ table { color:red; width:100%;
   .right {
     width: 100%;
   }
+
+  .imagefit {
+  max-width:100%;
+  height:auto;
+  max-height:100%;
 }
 @media only screen and (max-width:500px) {
   /* For mobile phones: */
   .menu, .main, .right {
     width: 100%;
   }
+
+    .imagefit {
+  max-width:100%;
+  height:auto;
+  max-height:100%;
 }
