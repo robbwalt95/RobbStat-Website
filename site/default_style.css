@@ -83,6 +83,11 @@ table { color:red; width:100%;
   height:auto;
   max-height:100%;
 }
+  .poem {
+    font-size: 15px
+  }
+
+}
 @media only screen and (max-width:500px) {
   /* For mobile phones: */
   .menu, .main, .right {
@@ -93,4 +98,9 @@ table { color:red; width:100%;
   max-width:100%;
   height:auto;
   max-height:100%;
+}
+
+  .poem {
+    font-size: 10px
+  }
 }
