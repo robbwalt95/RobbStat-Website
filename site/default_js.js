@@ -5,7 +5,7 @@ if (footerEl) footerEl.innerHTML ="Robb Walters - robbstat.tk - V2 - 2021.";
 
 // Set Last Update String
 const lastUpdateEl = document.getElementById("lastUpdate")
-if (lastUpdateEl) lastUpdateEl.innerHTML ="Updated: 12/4/21";
+if (lastUpdateEl) lastUpdateEl.innerHTML ="Last Updated: 12/6/2021";
 
 
 // Set Title Description String
