@@ -1,0 +1,103 @@
+﻿
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="../../../default_style.css">
+<link rel="shortcut icon" href="../../../img/RSic.ico"/>
+<title> The Playlist Project</title>
+<style>img[alt="www.000webhost.com"]{display:none;}</style>
+
+
+</head>
+<body class="body">
+
+<div class="heading">
+    
+  <h1>Robb's Status</h1>
+  <h3 id="titleDescr"></h3>
+</div>
+
+<div style="overflow:auto;">
+  <div class="menu">
+    <div class="menuitem"> <a href="../../../index.html">Home (All)</a></div>
+ 	<div class="menuitem"><a href="../../../cat/author/author.html">Author & Purpose</a></div>
+    <div class="menuitem"><a href="../../../cat/literature/literature.html" >Literature</a></div>
+	<div class="menuitem"><a href="../../../cat/music/music.html" >Music</a></div>
+    <div class="menuitem"><a href="../../../cat/software/software.html" class="selected">Software</a></div>
+
+  </div>
+  
+
+
+  <div class="main">
+    <h2>About the Playlist Project</h2>
+    <h3><a href="https://github.com/robbwalt95/Playlist-Project" target="_blank">Click here for the GitHub Repo</a></h3>
+    <h3><a href="../../../cat/music/playlist/playlist.html">Click here for the Playlist Project execution</a></h3>
+    <h3><br>Purpose</h3>
+    <p>Seconds before planning and developing this project I realized the Music section was looking a bit lonely.</p>
+    <p>Not being a skilled musician, I decided: "Hey let's share my music playlist", thus becoming the start of this project.</p>
+
+    <h3><br>Technologies</h3>
+    <p>-Mp3tag Application</p>
+    <p>-Python - TinyTag library</p>
+    <p>-JSON</p>
+    <p>-Javascript - Fetch API</p>
+    <p>-HTML</p>
+
+
+    <h3><br>Implementing Flow</h3>
+    <p>Task 1 - Converting Music Metadata into JSON Format</p>
+    <p>1. Gather all music files and put them into an accessible directory</p>
+    <p>2. Using Mp3tag check each file and make sure metadata (Title and Artist) exists </p>
+    <p>3. In Python write to the top of the file with the heading format </p>
+    <p>4. Using Python access the music directory and iterate through each file</p>
+    <p>5. With each file iteration exact the metadata (TinyTag) and append it in with the correct format for JSON</p>
+    <p>6. Append the closing format to the JSON file </p>
+
+
+    <p><br>Task 2 - Displaying JSON File into HTML Web Page</p>
+    <p>1. Analyzed <a href="https://www.youtube.com/watch?v=qBg8IB3u28s" target="_blank">THIS</a> video</p>
+    <p>2. Literally followed directions to implement the html table and the Javascript Fetch API script</p>
+    <p>3. Reviewed what is written and checked for silly made errors</p>
+    <p>4. Confirmed the results on a server</p>
+
+
+    <h3><br>Author Note of Development</h3>
+    <p>The development of this project was quick. However, there were some hurdles to jump through before it got to satisfactory standards. </p>
+    <p>The first hurdle was collecting flac file metadata. I used the eye3d python library only to find I could only properly gather from the mp3 format. </p>
+    <p>I switched over to the Mutagen python library. Ultimately, I found that this library could not get m4a file metadata. </p>
+    <p>The TinyTag python library was my final solution to read metadata from file formats of: mp3, flac, and m4a.</p>
+
+    <p><br>Task 2 was pretty straightforward. Only major issues I had to deal with were from syntax and variable names.</p>
+    <p>The video I followed (Thank you dcode) was a great template that converted into my project easily.</p>
+
+    <h3><br>Project Status</h3>
+    <p>Development: 90% Complete</p>
+    <p>Future Plans: Alphabetize by Artist/Band</p>
+
+    <h3><a href="https://github.com/robbwalt95/Playlist-Project" target="_blank">Click here for the GitHub Repo</a></h3>
+    <h3><a href="../../../cat/music/playlist/playlist.html">Click here for the Playlist Project execution</a></h3>
+
+    <img src="../../../img/darklogo3.gif" style="width:100%">
+  </div>
+
+  <div class="right">
+    <h2>What?</h2>
+    <p>This is the Playlist Project Page</p>
+    <p>Developed: 12/8/21</p>
+  </div>
+</div>
+
+
+<div class="footer">
+	<p id="footer"></p>
+</div>
+
+
+<script type="text/javascript" src="../../../default_js.js"></script>
+
+
+</body>
+</html>
