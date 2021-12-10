@@ -5,10 +5,6 @@
 ],
 "rows": [
 [
-"Billie Eilish",
-"!!!!!!!"
-],
-[
 "Sia",
 "Chandelier"
 ],
@@ -150,10 +146,6 @@
 ],
 [
 "Imagine Dragons",
-"Thunder"
-],
-[
-"Imagine Dragons",
 "Rise Up"
 ],
 [
@@ -195,10 +187,6 @@
 [
 "Imagine Dragons",
 "I'll Make It Up To You"
-],
-[
-"NF",
-"Let You Down"
 ],
 [
 "Nirvana",
@@ -481,16 +469,8 @@
 "Rather Be"
 ],
 [
-"Taylor Swift",
-"Dancing With Our Hands Tied"
-],
-[
 "The Beatles",
 "You're Going To Lose That Girl"
-],
-[
-"Camila Cabello",
-"Havana (feat. Young Thug)"
 ],
 [
 "Imagine Dragons",
@@ -593,10 +573,6 @@
 "Strawberry Fields Forever"
 ],
 [
-"Imagine Dragons",
-"Believer"
-],
-[
 "Calvin Harris",
 "Blame"
 ],
@@ -641,20 +617,12 @@
 "Slow Hands"
 ],
 [
-"Post Malone",
-"Rockstar (feat. 21 Savage)"
-],
-[
 "Maroon 5",
 "Maps"
 ],
 [
 "The Beatles",
 "She Came In Through The Bathroom Window"
-],
-[
-"Taylor Swift",
-"Look What You Made Me Do"
 ],
 [
 "The Beatles",
@@ -679,10 +647,6 @@
 [
 "Imagine Dragons",
 "I Bet My Life"
-],
-[
-"Marshmello",
-"Silence (feat. Khalid)"
 ],
 [
 "Post Malone",
@@ -805,14 +769,6 @@
 "Let It Be"
 ],
 [
-"The Chainsmokers & Coldplay",
-"Something Just Like This"
-],
-[
-"The Beatles",
-"Sgt. Pepper's Lonely Hearts Club Band"
-],
-[
 "The Beatles",
 "With A Little Help From My Friends"
 ],
@@ -845,10 +801,6 @@
 "Sgt Pepper's Lonely Hearts Club Band (Reprise)"
 ],
 [
-"Lil Uzi Vert",
-"XO TOUR Llif3"
-],
-[
 "The Beatles",
 "A Day In the Life"
 ],
@@ -877,14 +829,6 @@
 "Crew (feat. Brent Faiyaz & Shy Glizzy)"
 ],
 [
-"Marshmello",
-"Silence (feat. Khalid)"
-],
-[
-"SZA",
-"Love Galore (feat. Travis Scott)"
-],
-[
 "Vance Joy",
 "Riptide"
 ],
@@ -907,10 +851,6 @@
 [
 "Charlie Puth",
 "How Long"
-],
-[
-"Travis Scott",
-"Butterfly Effect"
 ],
 [
 "Kelly Clarkson",
@@ -1049,10 +989,6 @@
 "Paris"
 ],
 [
-"Miguel",
-"Sky Walker (feat. Travis Scott)"
-],
-[
 "Post Malone",
 "Go Flex"
 ],
@@ -1075,10 +1011,6 @@
 [
 "Kenny Chesney",
 "All The Pretty Girls"
-],
-[
-"Selena Gomez & Marshmello",
-"Wolves"
 ],
 [
 "888",
@@ -1181,6 +1113,10 @@
 "Always"
 ],
 [
+"Amber Run",
+"I Found"
+],
+[
 "American Authors",
 "Luck"
 ],
@@ -1195,6 +1131,18 @@
 [
 "Angus & Julia Stone",
 "Big Jet Plane"
+],
+[
+"Angus & Julia Stone",
+"Chateau"
+],
+[
+"Angus & Julia Stone",
+"Im Not Yours"
+],
+[
+"Angus & Julia Stone",
+"Santa Monica Dream"
 ],
 [
 "Three Days Grace",
@@ -1253,6 +1201,22 @@
 "Boston"
 ],
 [
+"Au/Ra",
+"Bite Marks"
+],
+[
+"Au/Ra",
+"Dance in the Dark"
+],
+[
+"Au/Ra",
+"Medicine"
+],
+[
+"Au/Ra",
+"Stay Happy"
+],
+[
 "AVICII Ft Audra Mae",
 "Addicted To You"
 ],
@@ -1271,6 +1235,22 @@
 [
 "David Gray",
 "Babylon"
+],
+[
+"Badflower",
+"Dont Hate Me"
+],
+[
+"Badflower",
+"Everyones An Asshole"
+],
+[
+"Badflower",
+"Machine Gun"
+],
+[
+"Badflower",
+"Tethered"
 ],
 [
 "Band of Horses",
@@ -1349,6 +1329,14 @@
 "Lovely"
 ],
 [
+"Billie Eilish",
+"Hostage"
+],
+[
+"Billie Eilish",
+"Your Power"
+],
+[
 "Black &amp",
 "White Route 10"
 ],
@@ -1383,6 +1371,14 @@
 [
 "Blue October",
 "Into the Ocean"
+],
+[
+"Blue October",
+"I Hope Youre Happy"
+],
+[
+"Blue October",
+"Oh My My"
 ],
 [
 "Puddle of Mudd",
@@ -1441,6 +1437,10 @@
 "Car Radio"
 ],
 [
+"CarolesDaughter",
+"Violent"
+],
+[
 "Carrie Underwood",
 "Just A Dream"
 ],
@@ -1483,6 +1483,14 @@
 [
 "Snow Patrol",
 "Chasing Cars"
+],
+[
+"Chelou",
+"Halfway to Nowhere"
+],
+[
+"Chelou",
+"Out of Sight"
 ],
 [
 "Christina Perri",
@@ -1561,6 +1569,10 @@
 "Counting Stars"
 ],
 [
+"The Cranberries",
+"Zombie"
+],
+[
 "DJ Pickee",
 "Crush Crush Crush"
 ],
@@ -1579,6 +1591,10 @@
 [
 "Soundtrack",
 "Cups"
+],
+[
+"Current Joys",
+"A Different Age"
 ],
 [
 "Cutline",
@@ -1745,6 +1761,10 @@
 "Don't Trust Me"
 ],
 [
+"Down Like Silver",
+"Wolves"
+],
+[
 "Dropwizz",
 "Final Battle"
 ],
@@ -1893,6 +1913,18 @@
 "Cloud"
 ],
 [
+"Flobots",
+"Handlebars"
+],
+[
+"Flora Cash",
+"They Own This Town"
+],
+[
+"Flora Cash",
+"Youre Somebody Else"
+],
+[
 "Florence + the Machine",
 "Dog Days Are Over"
 ],
@@ -1933,6 +1965,10 @@
 "Swimming Pool"
 ],
 [
+"French 79",
+"Hometown"
+],
+[
 "Twenty One Pilots",
 " Friend Please"
 ],
@@ -1971,6 +2007,10 @@
 [
 "Gnarls Barkley",
 "Crazy"
+],
+[
+"Twenty One Pilots",
+"Going Down"
 ],
 [
 "Three Days Grace",
@@ -2067,6 +2107,14 @@
 [
 "Twenty One Pilots",
 "Hole in the Ground"
+],
+[
+"Hollow Coves",
+"These Memories"
+],
+[
+"Hollow Coves",
+"The Woods"
 ],
 [
 "Hollywood Undead",
@@ -2217,6 +2265,14 @@
 "Hot 'N Cold"
 ],
 [
+"K Flay",
+"Blood In The Cut"
+],
+[
+"K FLay",
+"High Enough"
+],
+[
 "AWOLNATION",
 "Kill Your Heroes"
 ],
@@ -2257,6 +2313,10 @@
 "Ready"
 ],
 [
+"Kodaline",
+"All I Want"
+],
+[
 "Kronic",
 "Mind Tricks "
 ],
@@ -2291,10 +2351,6 @@
 [
 "Passenger",
 "Let Her Go"
-],
-[
-"Hip Hop Instrumental",
-" Let It Go"
 ],
 [
 "Lifehouse",
@@ -2345,12 +2401,24 @@
 "From The Inside"
 ],
 [
+"Linkin Park (feat. Kiiara)",
+"Heavy"
+],
+[
+"Linkin Park",
+"One More Light"
+],
+[
 "Rusko",
 " Remedy "
 ],
 [
 "Of Monsters And Men",
 "Little Talks"
+],
+[
+"Lorn",
+"Acid Rain"
 ],
 [
 "Linkin Park",
@@ -2457,6 +2525,10 @@
 "Migraine"
 ],
 [
+"Milky Chance",
+"Colorado"
+],
+[
 "Mindless Self Indulgence",
 "Animal"
 ],
@@ -2479,6 +2551,26 @@
 [
 "Paramore",
 "Misguided Ghosts"
+],
+[
+"Missio",
+"Animal"
+],
+[
+"Missio",
+"Can I Exist"
+],
+[
+"Missio",
+"Everbody Gets High"
+],
+[
+"Missio",
+"I See You"
+],
+[
+"Missio",
+"Sing To Me"
 ],
 [
 "Imagine Dragons",
@@ -2515,6 +2607,14 @@
 [
 "The Killers",
 "Mr Brightside"
+],
+[
+"Mr Kitty",
+"After Dark"
+],
+[
+"Mr Kitty",
+"Destroy Me"
 ],
 [
 "Mumford & Sons",
@@ -2559,6 +2659,10 @@
 [
 "Halsey",
 "New Americana"
+],
+[
+"The New Division",
+"Saturday Night"
 ],
 [
 "Nickelback",
@@ -2925,10 +3029,6 @@
 "It's Been A While"
 ],
 [
-"Tove Lo",
-"Stay High Remix"
-],
-[
 "Zedd",
 "Stay The Night"
 ],
@@ -2951,6 +3051,10 @@
 [
 "Sublime",
 "Doin & Time (ZEDS DEAD remix)"
+],
+[
+"Sub Urban feat. REI AMI",
+"Freak"
 ],
 [
 "The Postal Service",
@@ -2985,6 +3089,18 @@
 "Sweet Nothing (Album Version)"
 ],
 [
+"SYML",
+"Fear of the Water"
+],
+[
+"SYML",
+"Hurt For Me"
+],
+[
+"SYML",
+"Where's My Love (Acoustic)"
+],
+[
 "Twenty One Pilots",
 "Taxi Cab"
 ],
@@ -3003,6 +3119,10 @@
 [
 "Red Hot Chili Peppers",
 "Tell Me Baby"
+],
+[
+"Tessa Violet",
+"Crush"
 ],
 [
 "Breathe Carolina",
@@ -3143,6 +3263,30 @@
 [
 "twenty one pilots",
 "Heathens"
+],
+[
+"Twenty One Pilots",
+"Choker"
+],
+[
+"Twenty One Pilots",
+"No Chances"
+],
+[
+"Twenty One Pilots",
+"Redecorate"
+],
+[
+"Twenty One Pilots",
+"Shy Away"
+],
+[
+"Vanic X Zella Day",
+"Hypnotic"
+],
+[
+"Vorsa",
+"Self Destructive"
 ],
 [
 "WALK THE MOON",
